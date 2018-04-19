@@ -15,12 +15,15 @@ script tag with additional attributes for django.forms.Media
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/django-js-asset-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-js-asset-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-js-asset-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-js-asset-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-js-asset/badges/version.svg)](https://anaconda.org/conda-forge/django-js-asset)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-js-asset/badges/downloads.svg)](https://anaconda.org/conda-forge/django-js-asset)
+[![Conda Recipe](https://img.shields.io/badge/recipe-django--js--asset-green.svg)](https://anaconda.org/conda-forge/django-js-asset)
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-js-asset.svg)](https://anaconda.org/conda-forge/django-js-asset)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-js-asset.svg)](https://anaconda.org/conda-forge/django-js-asset)
+[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-js-asset.svg)](https://anaconda.org/conda-forge/django-js-asset)
 
 Installing django-js-asset
 ==========================
